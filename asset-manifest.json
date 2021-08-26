@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SwatiJagtap26/practice-ishop.git/static/css/main.bfcb45f2.chunk.css",
+    "main.js": "/SwatiJagtap26/practice-ishop.git/static/js/main.467cadd3.chunk.js",
+    "main.js.map": "/SwatiJagtap26/practice-ishop.git/static/js/main.467cadd3.chunk.js.map",
+    "runtime-main.js": "/SwatiJagtap26/practice-ishop.git/static/js/runtime-main.1f5fc835.js",
+    "runtime-main.js.map": "/SwatiJagtap26/practice-ishop.git/static/js/runtime-main.1f5fc835.js.map",
+    "static/js/2.b4cfb2ec.chunk.js": "/SwatiJagtap26/practice-ishop.git/static/js/2.b4cfb2ec.chunk.js",
+    "static/js/2.b4cfb2ec.chunk.js.map": "/SwatiJagtap26/practice-ishop.git/static/js/2.b4cfb2ec.chunk.js.map",
+    "index.html": "/SwatiJagtap26/practice-ishop.git/index.html",
+    "static/css/main.bfcb45f2.chunk.css.map": "/SwatiJagtap26/practice-ishop.git/static/css/main.bfcb45f2.chunk.css.map",
+    "static/js/2.b4cfb2ec.chunk.js.LICENSE.txt": "/SwatiJagtap26/practice-ishop.git/static/js/2.b4cfb2ec.chunk.js.LICENSE.txt",
+    "static/media/Apple Airpods.36e41035.webp": "/SwatiJagtap26/practice-ishop.git/static/media/Apple Airpods.36e41035.webp",
+    "static/media/Apple Camera.ef785f3c.webp": "/SwatiJagtap26/practice-ishop.git/static/media/Apple Camera.ef785f3c.webp",
+    "static/media/Apple Smartwatch Magic.10e746e7.webp": "/SwatiJagtap26/practice-ishop.git/static/media/Apple Smartwatch Magic.10e746e7.webp",
+    "static/media/New Apple Mac Mini.fe9b0afb.webp": "/SwatiJagtap26/practice-ishop.git/static/media/New Apple Mac Mini.fe9b0afb.webp",
+    "static/media/homepod.13898c22.webp": "/SwatiJagtap26/practice-ishop.git/static/media/homepod.13898c22.webp",
+    "static/media/iPhone Lightning Dock - Gold.c16944fd.jpg": "/SwatiJagtap26/practice-ishop.git/static/media/iPhone Lightning Dock - Gold.c16944fd.jpg",
+    "static/media/iphone-x-pictures-45223.01805c3b.png": "/SwatiJagtap26/practice-ishop.git/static/media/iphone-x-pictures-45223.01805c3b.png",
+    "static/media/iphone-x-pictures-45224.eded30d2.png": "/SwatiJagtap26/practice-ishop.git/static/media/iphone-x-pictures-45224.eded30d2.png",
+    "static/media/ipod.7bbcb59c.jpg": "/SwatiJagtap26/practice-ishop.git/static/media/ipod.7bbcb59c.jpg",
+    "static/media/p2.b9977061.png": "/SwatiJagtap26/practice-ishop.git/static/media/p2.b9977061.png",
+    "static/media/smartwatch2.e8d8ccb0.jpg": "/SwatiJagtap26/practice-ishop.git/static/media/smartwatch2.e8d8ccb0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5fc835.js",
+    "static/js/2.b4cfb2ec.chunk.js",
+    "static/css/main.bfcb45f2.chunk.css",
+    "static/js/main.467cadd3.chunk.js"
+  ]
+}
